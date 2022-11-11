@@ -9,4 +9,4 @@ This project is a web app that uses web API and user input data to dynamically u
 The web page is usable across all modern browsers.
 
 ## Dependencies
-index.html style.css script.js
+index.html, style.css, script.js
